@@ -4,3 +4,5 @@ sansan|sofi
 bb|brengsek
 request|admin
 aji|ngewe
+adib|anjingbanget
+ical|bintit
